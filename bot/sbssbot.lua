@@ -232,29 +232,10 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {144658773,114934518},--Sudo users
+    sudo_users = {157981411,92247090},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On TeleSeed
-    
-    Develpoed By:
-    @cia_00_07
-    Manager:
-    @yellow_hat
-    Founder:
-    @sina7sk
-    
-    Special Thank To:
-    Fastreactor😍
-    Amirho33in
-    Yellow hat👻
-    Sina7sk
-    
-    Powered By @tele1_lion
-    
-    #Open Source
-    https://github.com/ub12_wnww
+    about_text = [[Bax Offline Bot V2
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -332,7 +313,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Bax Offline
 ]]
   }
   serialize_to_file(config, './data/config.lua')
